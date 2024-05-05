@@ -1,8 +1,6 @@
 print("The Love Calculator is calculating your score...")
 name1 = input("enter name1\n") # What is your name?
 name2 = input("enter name2\n") # What is their name?
-# 🚨 Don't change the code above 👆
-# Write your code below this line 👇
 n=name1+name2
 n=n.lower()
 t=n.count('t')
